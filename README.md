@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm just a student right now.
 <!--
 **Firextream/Firextream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
