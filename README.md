@@ -96,9 +96,16 @@ Philosophy: "Form follows function, but chaos creates character."
 
 <!-- SOCIALS -->
 
+<!-- Linkleri kendine göre düzenlemeyi unutma! -->
+
 <a href="https://www.google.com/search?q=https://linkedin.com/in/SENIN-LINKEDIN-ADRESIN">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-white%3Fstyle%3Dsocial%26logo%3Dlinkedin" alt="LinkedIn"/>
 </a>
+<a href="https://www.google.com/search?q=https://twitter.com/SENIN-TWITTER-ADRESIN">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/X_(Twitter)-Follow-white%3Fstyle%3Dsocial%26logo%3Dx" alt="Twitter"/>
+</a>
+
+</div>
 <a href="https://www.google.com/search?q=https://twitter.com/SENIN-TWITTER-ADRESIN">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/X_(Twitter)-Follow-white%3Fstyle%3Dsocial%26logo%3Dx" alt="Twitter"/>
 </a>
