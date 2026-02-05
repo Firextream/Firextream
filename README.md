@@ -62,5 +62,5 @@ gantt
 
 <div align="center">
    <p>🌐 Visit my website: <a href="https://duruduygu.com">duruduygu.com</a></p>
-  <p>📫 Find me on <a href="[https://www.linkedin.com](https://www.linkedin.com/in/emir-duruduygu-90800a27a/)">LinkedIn</a> or <a href="[https://www.instagram.com](https://www.instagram.com/emir_duruduygu/?hl=en)">Instagram</a></p>
+  <p>📫 Find me on <a href="https://www.linkedin.com/in/emir-duruduygu-90800a27a/">LinkedIn</a> or <a href="https://www.instagram.com/emir_duruduygu/?hl=en">Instagram</a></p>
 </div>
