@@ -5,7 +5,7 @@ FONT: System Standard
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Header" />
+<img src="assets/banner.jpg" alt="Header" />
 
 </div>
 <h3>
