@@ -5,8 +5,9 @@ FONT: System Standard
 
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0d1117%26height%3D100%26section%3Dheader%26text%3DE%2520M%2520I%2520R%2520*%2520D%26fontSize%3D70%26fontAlignY%3D40%26fontColor%3Dffffff%26animation%3DfadeIn" alt="Header" />
+<img src="assets/banner.png" alt="Header" />
 
+</div>
 <h3>
 <code>Electrical & Electronics Engineering Student @ ITU</code>
 </h3>
