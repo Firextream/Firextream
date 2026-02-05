@@ -34,17 +34,20 @@ My work sits at the intersection of raw hardware control and generative visuals.
 
 ```mermaid
 gantt
-    title 2026 Roadmap
+    title 2026 ROADMAP
     dateFormat YYYY-MM-DD
     axisFormat %m/%y
 
-    section Academic
-    ITU Spring Semester      :active, acad1, 2026-02-01, 2026-06-15
+    section 🎓 Academic & edX
+    ITU Spring Semester        :active, acad1, 2026-02-09, 2026-06-12
+    CS50P (Python & OOP)       :active, edx1,  2026-02-02, 2026-07-01
+    The Arch. Imagination      :active, edx2,  2026-02-02, 2026-04-10
 
-    section Projects
-    ROV Electronics Design   :active, proj1, 2026-01-10, 2026-05-20
-    Portfolio V2 (Next.js)   :active, proj2, 2026-02-01, 2026-03-01
-    TouchDesigner Training   :        2026-02-15, 30d
+    section 🚀 Projects & Dev
+    ROV Electronics Design     :active, proj1, 2026-01-10, 2026-05-20
+    Portfolio V2 (Next.js)     :done,   proj2, 2026-01-05, 2026-02-05
+    TouchDesigner Training     :        art1,  2026-02-15, 30d
+    Architecture App           :        proj3, 2026-04-01, 2026-07-31
 ```
 
 ---
@@ -58,5 +61,6 @@ gantt
 ---
 
 <div align="center">
-  <p>📫 Find me on <a href="https://www.linkedin.com">LinkedIn</a> or <a href="https://www.instagram.com">Instagram</a></p>
+   <p>🌐 Visit my website: <a href="https://duruduygu.com">duruduygu.com</a></p>
+  <p>📫 Find me on <a href="[https://www.linkedin.com](https://www.linkedin.com/in/emir-duruduygu-90800a27a/)">LinkedIn</a> or <a href="[https://www.instagram.com](https://www.instagram.com/emir_duruduygu/?hl=en)">Instagram</a></p>
 </div>
