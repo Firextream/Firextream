@@ -96,6 +96,73 @@ Philosophy: "Form follows function, but chaos creates character."
 
 <!-- SOCIALS -->
 
+<a href="https://www.google.com/search?q=https://linkedin.com/in/SENIN-LINKEDIN-ADRESIN">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-white%3Fstyle%3Dsocial%26logo%3Dlinkedin" alt="LinkedIn"/>
+</a>
+<a href="https://www.google.com/search?q=https://twitter.com/SENIN-TWITTER-ADRESIN">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/X_(Twitter)-Follow-white%3Fstyle%3Dsocial%26logo%3Dx" alt="Twitter"/>
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br />
+
+/// CURRENT_OBJECTIVES
+
+gantt
+    title 2026 ROADMAP
+    dateFormat  YYYY-MM-DD
+    section Academic
+    ITU Spring Semester      :active, 2026-02-01, 2026-06-15
+    section Projects
+    ROV Electronics Design   :active, 2026-01-10, 2026-05-20
+    Portfolio V2 (Next.js)   :active, 2026-02-01, 2026-03-01
+    TouchDesigner Daily      :2026-02-15, 30d
+
+
+<br />
+
+/// AESTHETICS_&_INTERESTS
+
+Architecture: Brutalism, Industrial Design
+
+Visuals: Analog Photography, Glitch Art, Generative Design
+
+Audio: Techno, IDM, Ambient
+
+Philosophy: "Form follows function, but chaos creates character."
+
+<br />
+
+<div align="center">
+
+<!-- GITHUB STATS - DARK THEME -->
+
+<a href="https://www.google.com/search?q=https://github.com/Firextream">
+<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFirextream%26show_icons%3Dtrue%26theme%3Dgotham%26hide_border%3Dtrue%26bg_color%3D0d1117" />
+<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFirextream%26layout%3Dcompact%26theme%3Dgotham%26hide_border%3Dtrue%26bg_color%3D0d1117" />
+</a>
+
+<br /><br />
+
+<!-- SOCIALS -->
+
 <!-- Linkleri kendine göre düzenlemeyi unutma! -->
 
 <a href="https://www.google.com/search?q=https://linkedin.com/in/SENIN-LINKEDIN-ADRESIN">
